@@ -1,0 +1,10 @@
+/* open-sans-condensed-300 - latin */
+@font-face {
+    font-family: 'Ephesis';
+    font-style: normal;
+    font-display: auto;
+    
+    src: local(''),
+         url('../fonts/Ephesis-Regular.woff2') format('woff2'), /* Super Modern Browsers */        
+         url('../fonts/Ephesis-Regular.ttf') format('truetype'), /* Safari, Android, iOS */
+  }
