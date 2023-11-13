@@ -71,11 +71,11 @@
     width: 100vw;
     height: 100vh;
     background-image: linear-gradient(to right, transparent 10%, black 20%);
-    animation: fadeOut ease-in-out 8000ms 1 forwards;
+    animation: fadeIn ease-in-out 8000ms 1 forwards;
     z-index: 2;            
   }
   
-  @keyframes fadeOut {  
+  @keyframes fadeIn {  
     0% {
       width: 100vw;
     }
