@@ -29,8 +29,8 @@
   
   @media (max-width: 768px) {
     .phrase {
-      font-size: 0.8em;
-      padding: 0.3 0;
+      font-size: 0.9em;
+      padding: 0;
     }
   }
   
@@ -56,9 +56,13 @@
   }
   
   @media (max-width: 768px) {
-    .aspas-initial, .aspas-end {
+    .aspas-initial {
       font-size: 1.5em;
-      padding: 0 0.5rem 0 0;
+      padding: 0 0.25em 0 0;
+    }
+    .aspas-end {
+      font-size: 1.5em;
+      padding: 0 0 0 0.1em;
     }
   }
   
